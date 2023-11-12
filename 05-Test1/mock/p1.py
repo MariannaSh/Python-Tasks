@@ -14,8 +14,8 @@ def f(n):
     coins += n
     return coins
 
-if __name__ == '__main__':
-    #check your program in this place
-    print(f(9))
-    print(f(10))
-    print(f(16))
+# if __name__ == '__main__':
+#     #check your program in this place
+#     print(f(9))
+#     print(f(10))
+#     print(f(16))

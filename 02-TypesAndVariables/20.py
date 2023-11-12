@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+print(f'Number one: {a}')
+print(f'Number two: {b}')
+print(f'Division result: {a//b}')
+print(f'Remainder: {a%b}')

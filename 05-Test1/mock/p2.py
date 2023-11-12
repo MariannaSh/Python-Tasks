@@ -9,9 +9,9 @@ def f(n1,n2,n3):
     else:
         return False
     
-if __name__ == "__main__":
-    #check your program in this place
-    print(f(1,2,3))
-    print(f(1,2,2))
-    print(f(1,1,2))
-    print(f(1,2,1))
+# if __name__ == "__main__":
+#     #check your program in this place
+#     print(f(1,2,3))
+#     print(f(1,2,2))
+#     print(f(1,1,2))
+#     print(f(1,2,1))
