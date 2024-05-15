@@ -1,0 +1,11 @@
+{
+    "title": "Harry Potter",
+    "year": "2001",
+    "actor": [
+        "Daniel Radcliffe",
+        "Emma Woston",
+        "Rupert Grint"
+    ],
+    "oscar": false,
+    "type": "fantasy"
+}

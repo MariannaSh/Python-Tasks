@@ -1,0 +1,12 @@
+{
+    "name": "Jan",
+    "surname": "Kowalski",
+    "index": "123456",
+    "grades": [
+        3.5,
+        4.0,
+        3.0,
+        4.5
+    ],
+    "group": "ZISS-2313"
+}

@@ -1,0 +1,1 @@
+print(f(21,"statistics"))
